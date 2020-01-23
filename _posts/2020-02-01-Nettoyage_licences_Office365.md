@@ -1,5 +1,5 @@
 ﻿---
-date: 2020-02-01 00:00:00+01:00
+date: 2020-02-01 00:00:00
 layout: post
 Author: thiagorossener
 title: Nettoyage des licences Office 365

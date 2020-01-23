@@ -1,14 +1,15 @@
 ﻿---
+date: 2020-03-01 00:00:00
 layout: post
-Author: "Laurent LIENHARD"
-date: 2020-03-01T00:00:00+01:00
-title: "Copie d'un profile UPD (VHDX)"
-subtitle: "Déplacement d'un profile UPD"
-tags: [Powershell, RDS, FICHIER]
-categories: [RDS]
-bigimg: [ { src: "/img/Header/RDP.jpg" }]
-published: false
-draft: true
+Author: thiagorossener
+title: Copie d'un profile UPD (VHDX)
+subtitle: Déplacement d'un profile UPD
+tags:
+  - Powershell
+  - RDS
+  - Fichier]
+categories: Blog
+paginate: true
 ---
 
 ## Demande initiale
