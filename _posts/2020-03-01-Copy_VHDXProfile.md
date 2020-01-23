@@ -7,7 +7,7 @@ subtitle: Déplacement d'un profile UPD
 tags:
   - Powershell
   - RDS
-  - Fichier]
+  - Fichier
 categories: Blog
 paginate: true
 ---
