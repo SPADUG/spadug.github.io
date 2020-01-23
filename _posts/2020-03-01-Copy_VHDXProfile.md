@@ -1,7 +1,7 @@
 ﻿---
 date: 2020-03-01 00:00:00
 layout: post
-Author: thiagorossener
+Author: LaurentLienhard
 title: Copie d'un profile UPD (VHDX)
 subtitle: Déplacement d'un profile UPD
 tags:

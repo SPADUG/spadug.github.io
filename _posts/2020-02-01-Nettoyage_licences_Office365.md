@@ -1,7 +1,7 @@
 ﻿---
 date: 2020-02-01 00:00:00
 layout: post
-Author: thiagorossener
+Author: LaurentLienhard
 title: Nettoyage des licences Office 365
 subtitle: Nettoyage des licences Office 365 directes et héritées
 tags:
