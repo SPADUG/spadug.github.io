@@ -8,7 +8,7 @@ tags:
   - Powershell
   - Office365
   - AzureAD
-categories: Blog
+categories: Code
 paginate : true
 ---
 

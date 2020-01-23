@@ -8,7 +8,7 @@ tags:
   - Powershell
   - RDS
   - Fichier
-categories: Blog
+categories: Code
 paginate: true
 ---
 
